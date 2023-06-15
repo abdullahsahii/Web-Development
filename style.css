@@ -1,0 +1,106 @@
+* {
+    background-color: #F7FAFC;
+    padding-left: 40px;
+    padding-right: 15px;
+    font: ns-serif;
+}
+
+b {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+label {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+.inner_container {
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+}
+
+.inner_containerr {
+    width: 45%;
+    float: left;
+    margin-top: 100px;
+}
+
+a {
+    text-decoration: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+input[type=text] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+
+input[type=email] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+
+input[type=password] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+
+/* input[type=checkbox] {
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: 50;
+
+} */
+
+input[type=country] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+
+.round-checkbox {
+    border-radius: 50%;
+}
+
+.footer {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* label[for=agree] {
+    font: 13px ns-serif
+} */
+
+button {
+    background-color: #B4A3FD;
+    height: 40px;
+    width: 310px;
+    border-radius: 10px;
+}
+
+p {
+    font: 15px ns-serif;
+    padding-left: 10;
+    padding-right: 0;
+}
+
+h3 {
+    padding-left: 0;
+    font: 20px ns-serif;
+}
